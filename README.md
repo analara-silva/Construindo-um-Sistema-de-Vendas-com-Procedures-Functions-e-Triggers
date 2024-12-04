@@ -29,9 +29,9 @@ Divida a turma em **6 grupos**, com cada grupo responsável por uma parte do sis
 
 ---
 
-## Tabelas do Sistema
+## Resolução
 
-As tabelas do sistema são baseadas no Modelo Entidade-Relacionamento (MER) fornecido, e são responsáveis por armazenar informações cruciais para o funcionamento do e-commerce fictício.
+Faço parte do grupo 2 e aqui esta a resolução:
 
 `DELIMITER //
 CREATE PROCEDURE registrar_venda(
